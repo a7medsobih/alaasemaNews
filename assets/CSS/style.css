@@ -430,6 +430,10 @@ section {
     /* margin: 0; */
 }
 
+.dayAgo{
+    margin: 10px 0;  
+}
+
 .smallBox {
     font-size: 0.6rem;
     color: #FFF;
