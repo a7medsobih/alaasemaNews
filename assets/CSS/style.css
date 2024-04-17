@@ -18,6 +18,8 @@ space-evenly ->  Lines are evenly distributed in the flex container, with equal 
 
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 body {
@@ -430,8 +432,8 @@ section {
     /* margin: 0; */
 }
 
-.dayAgo{
-    margin: 10px 0;  
+.dayAgo {
+    margin: 10px 0;
 }
 
 .smallBox {
